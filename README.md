@@ -1,7 +1,7 @@
 # IVAStar
 An implementation of AStar Pathfinding in Python
 
-   """ Determines best path between start_node and end_node along 2D grid of graph
+    Determines best path between start_node and end_node along 2D grid of graph
     inputs:
     start_node: arbitray class node containing x,y coordinates and data
     end_node: arbitray class node containing x,y coordinates and data
@@ -21,7 +21,7 @@ An implementation of AStar Pathfinding in Python
     0 = solution found
     1 = solution not found, path was not found due to never reaching end (no traversible path exists)
     2 = solution not found, path was not found due to error (a bug in the algorithm implementation)
-    """
+ 
     
     Included demo sample output:
     
